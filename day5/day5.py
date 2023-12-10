@@ -1,10 +1,10 @@
-# https://adventofcode.com/2022/day/4
+# https://adventofcode.com/2022/day/5
 
 import re
 import numpy as np
 
 file = open("input.txt", "r")
-# file = open("input0.txt", "r")
+# file = open("test.txt", "r")
 
 stack_moves = file.read().split("\n\n")
 

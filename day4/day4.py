@@ -1,6 +1,6 @@
 # https://adventofcode.com/2022/day/4
 file = open("input.txt", "r")
-# file = open("input0.txt", "r")
+# file = open("test.txt", "r")
 
 
 

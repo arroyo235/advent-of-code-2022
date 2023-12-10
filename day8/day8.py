@@ -1,6 +1,6 @@
 import numpy as np
 file = open("input.txt", "r")
-# file = open("input0.txt", "r")
+# file = open("test.txt", "r")
 
 lines = file.read().split("\n")
 
